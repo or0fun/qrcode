@@ -27,4 +27,10 @@
     <color name="viewfinder_laser">#ffff0000</color>
     <color name="viewfinder_mask">#60000000</color>
 
+    <!-- 主色调 -->
+    <color name="background">#FF29A3CB</color>
+    <color name="green">#458B00</color>
+    <!-- 主按钮 -->
+    <drawable name="main_normal">@color/background</drawable>
+    <drawable name="main_pressed">#ff1884DF</drawable>
 </resources>
